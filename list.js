@@ -1,5 +1,4 @@
 const songlist = [
-    
     { name: "kala chashma", emoji: "🖤🕶 ", audio: "e7ce-9ca9-475a-b563-16d2e3f4c0b2.mp3" },
     { name: "laal pari", emoji: "❤️🧚🏻‍♀️", audio: "7bbf-5bd9-45ad-a293-40b71f0f04b3.mp3" },
     { name: "neend churai meri", emoji: "😴👮🏻‍♂️🤔", audio: "69f9-02a5-4e9f-8c94-f519a35c55c5.mp3" },
