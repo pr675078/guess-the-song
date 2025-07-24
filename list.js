@@ -10,6 +10,6 @@ const songlist = [
     { name: "tan tana tan tan tan tara", emoji: "🔟🔟🔟🔟🔟⭐🚶🏻‍♀️🕘🕛", audio: "chalti-hai-kya-9-se-12-judwaa-2-128-kbps_VLrXgEuM.mp3" },
     { name: "tu cheez badi hai mast mast", emoji: "2️⃣+🧀=👌🏻👌🏻", audio: "cheez-badi-machine-128-kbps_1u3VFH6e.mp3" },
     { name: "ankhein khuli ho ya ho band", emoji: "👀 ya ☺️", audio: "aankhein-khuli-mohabbatein-128-kbps_3KyYryio.mp3" },
-    { name: "chittiyaan kalaiyaan", emoji: "✉+🤜🏻", audio: "chittiyaan-kalaiyaan-roy-128-kbps_r3PldLaK.mp3" },
+    { name: "chittiyan kalaiyaan", emoji: "✉+🤜🏻", audio: "chittiyaan-kalaiyaan-roy-128-kbps_r3PldLaK.mp3" },
     { name: "tip tip barsa pani", emoji: "💧+💧=🔥", audio: "tip-tip-sooryavanshi-128-kbps_XIVEnCLL.mp3" },
 ];
